@@ -13,7 +13,7 @@ body {
   font-family: "Varela", sans-serif;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(../img/mers_img.jpg);
+    url(../img/bmw\ vs\ mers.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -90,6 +90,6 @@ body {
 }
 
 p {
-    width: 550px;
-    font-size: 15px;
+  width: 550px;
+  font-size: 15px;
 }
